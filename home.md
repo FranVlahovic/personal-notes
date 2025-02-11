@@ -1,6 +1,8 @@
 # Home
 
+This is **_Personal Learning Repository_** made by [FranVlahovic](https://github.com/FranVlahovic).
+
 ## Table of Contents
 
-1. ### [Personal](personal.md)
-1. ### [Work](work.md)
+- ### [Personal](personal.md)
+- ### [Work](work.md)
