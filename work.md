@@ -1,21 +1,18 @@
-# Work
+# 💼 Work
 
-## Table of Contents
+## 🔗 Useful Links
 
-- ### [Useful Links](#useful-links-1)
-
-## Useful Links
-
-- ### [HTML](#html-1)
-- ### [CSS](#css-1)
-- ### [JavaScript](#javascript-1)
-  - ### [React](#react-1)
-  - ### [Mongo DB](#mongo-db-1)
-  - ### [Express](#express-1)
-  - ### [Node](#node-1)
-- ### [Git](#git-1)
-- ### [Testing](#testing-1)
-- ### [UI/UX](#uiux-1)
+- [ HTML](#html)
+- [ CSS](#css)
+- [JavaScript](#javascript)
+  - [ React](#react)
+  - [ MongoDB](#mongo-db)
+  - [ Express](#express)
+  - [ Node.js](#node)
+- [ Git](#git)
+- [ Testing](#testing)
+- [ UI/UX](#uiux)
+- [ Markdown](#markdown)
 
 ## HTML
 
@@ -33,18 +30,28 @@
 
 [Using CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions)
 
+[An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
+
+[Bezier Generator](https://www.cssportal.com/css-cubic-bezier-generator/)
+
+### Stacking Context
+
+[Why the Heck Z index?](https://www.joshwcomeau.com/css/stacking-contexts/)
+
 ## JavaScript
 
 ### React
 
-### Mongo DB
+### MongoDB
 
 ### Express
 
-### Node
+### Node.js
 
 ## Git
 
 ## Testing
 
 ## UI/UX
+
+## Markdown
