@@ -1,8 +1,4 @@
-# 💼 Work
-
-<details>
-
-<summary style="font-size: 1.5em; font-weight: 600">🔗 Useful Links</summary>
+## 🔗 Useful Links
 
 | [HTML](work.md#html) · [CSS](work.md#css) · [JavaScript](work.md#javascript) · [Git](work.md#git) · [Testing](work.md#testing) · [UI/UX](work.md#uiux) · [Markdown](work.md#markdown) |
 
@@ -49,5 +45,3 @@
 ## Markdown
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
-
-</details>
