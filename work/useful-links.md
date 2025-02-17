@@ -45,3 +45,7 @@
 ## Markdown
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
+## Accessibility
+
+[Perspective Videos of People with disabilities](https://www.w3.org/WAI/perspective-videos/)
