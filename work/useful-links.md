@@ -49,3 +49,9 @@
 ## Accessibility
 
 [Perspective Videos of People with disabilities](https://www.w3.org/WAI/perspective-videos/)
+
+[WCAG Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+[A11y Project](https://www.a11yproject.com/)
+
+[WCAG Checklist](https://webaim.org/standards/wcag/checklist)
