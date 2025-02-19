@@ -4,6 +4,14 @@
 
 ## HTML
 
+[Ultimate HTML Cheat Sheet](https://cheatsheets.zip/html)
+
+### Semantic HTML
+
+[Semantic HTML5 Elements Explained](https://www.freecodecamp.org/news/semantic-html5-elements/)
+
+[The only tags you need when first learning HTML](https://www.youtube.com/watch?v=K_EVuLegRZ0)
+
 ## CSS
 
 ### Transforms
