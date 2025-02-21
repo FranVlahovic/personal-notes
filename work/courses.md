@@ -1,4 +1,4 @@
-## 🔗 Courses
+## 📚 Courses
 
 | Tag              | Name                                                                                                                                              | Status |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
@@ -14,6 +14,14 @@
 
 ### Jonas Schmedtmann Modern Java Script Course
 
+#### GitHub Repository:
+
+[Jonas Schmedtmann Repository](https://github.com/jonasschmedtmann/complete-javascript-course)
+
 #### Projects:
 
 [Pig Game](/work/code-snippets.md#jonas-schmedtmann-pig-game-project)
+
+#### Notes:
+
+[Jonas Schmedtmann Notes](/work/notes/jonas-schmedtmann-notes.md)

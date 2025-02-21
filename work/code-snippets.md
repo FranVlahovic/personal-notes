@@ -1,4 +1,4 @@
-## Code Snippets
+## 📜 Code Snippets
 
 ### Sample README File for GitHub
 
