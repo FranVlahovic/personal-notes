@@ -1,6 +1,6 @@
 ## 🔗 Useful Links
 
-| [HTML](work.md#html) · [CSS](work.md#css) · [JavaScript](work.md#javascript) · [Git](work.md#git) · [Testing](work.md#testing) · [UI/UX](work.md#uiux) · [Markdown](work.md#markdown) |
+| [HTML](#html) · [CSS](#css) · [JavaScript](#javascript) · [Git](#git) · [Testing](#testing) · [UI/UX](#uiux) · [Markdown](#markdown) · [Accessibility](#accessibility) |
 
 ## HTML
 
@@ -65,3 +65,5 @@
 [WCAG Checklist](https://webaim.org/standards/wcag/checklist)
 
 [Complete Guide to Dark Mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+
+[Alternative Text Examples](https://webaim.org/techniques/alttext/)
