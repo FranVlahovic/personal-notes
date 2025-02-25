@@ -33,10 +33,10 @@ console.log(now); // Reference Error
 
 ```
 if(year >= 1981 && year <= 1996){
-    const millenial = true;
+    const millennial = true;
     const food = 'Avocado toast';
 }
-console.log(millenial); // Reference Error
+console.log(millennial); // Reference Error
 ```
 
 ### Scope Chain
@@ -51,7 +51,7 @@ function first(){
 
     if(age >= 30){
         const decade = 3;
-        var millenial = true;
+        var millennial = true;
     }
 
     function second(){
@@ -68,10 +68,8 @@ first();
 ```
 
 - Global Scope - `myName = 'Jonas'`
-- first() Scope - `age = 30 millenial = true myName= 'Jonas'`
-- second() Scope - `job = 'teacher' age = 30 millenial = true myName= 'Jonas'`
-- if block Scope - `decade = 3 age = 30 millenial = true myName= 'Jonas'`
+- first() Scope - `age = 30 millennial = true myName= 'Jonas'`
+- second() Scope - `job = 'teacher' age = 30 millennial = true myName= 'Jonas'`
+- if block Scope - `decade = 3 age = 30 millennial = true myName= 'Jonas'`
 
   > Scope has access to variables from all outer scopes, so it looks up for required variables. Second Scope (&| if block Scope) > First Scope > Global Scope
-
-### Call Stack
