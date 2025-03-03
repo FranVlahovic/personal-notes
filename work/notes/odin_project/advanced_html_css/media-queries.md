@@ -172,3 +172,5 @@ footer {
 ```
 
 - We can use media print to change some colors (i.e. make things black/white), and add `display: none` to hide elements that are useless in a printed environment (buttons, nav links, etc).
+
+#### ↩️ [Odin Project Main](/work/notes/odin_project/the-odin-project.md)

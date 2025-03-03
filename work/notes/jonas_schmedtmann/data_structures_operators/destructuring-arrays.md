@@ -76,3 +76,5 @@ const [[, rating], [, ratingsCount]] = ratings;
 const [fiveStarRatings, oneStarRatings, threeStarRatings = 0] = ratingStars;
 console.log(ratingStars); // 63405 1808 0
 ```
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

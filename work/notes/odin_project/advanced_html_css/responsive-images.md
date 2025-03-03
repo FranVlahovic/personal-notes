@@ -87,3 +87,5 @@ body {
 - `sizes` => attribute defines a set of media conditions and indicates what image size to use for each condition.\
   `(max-width: 600px) 480px` => if viewport is `600px` wide or less, use `480px` image, for all other cases use `800px` image.
 - `src="elva-fairy-800w.jpg"` => specifies the url of the default image to be displayed if browser doesn't support the `srcset` attribute.
+
+#### ↩️ [Odin Project Main](/work/notes/odin_project/the-odin-project.md)

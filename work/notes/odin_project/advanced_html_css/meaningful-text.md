@@ -45,3 +45,5 @@ Visit <a href='...'>The Odin Project</a> to start your career in web development
 - Important for screen reader in order to tell user what image is being displayed.
 
 - Put empty alt attribute if image isn't important for the user to be aware of.
+
+#### ↩️ [Odin Project Main](/work/notes/odin_project/the-odin-project.md)

@@ -73,3 +73,5 @@ first();
 - if block Scope - `decade = 3 age = 30 millennial = true myName= 'Jonas'`
 
   > Scope has access to variables from all outer scopes, so it looks up for required variables. Second Scope (&| if block Scope) > First Scope > Global Scope
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

@@ -55,3 +55,5 @@ console.log(a, b) // 23 7
 const { fri: { open, close } } = openingHours;
 console.log(open, close); // 11 23
 ```
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)
