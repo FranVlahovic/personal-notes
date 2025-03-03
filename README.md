@@ -13,7 +13,7 @@ This is _`Personal Learning Repository`_ made by [FranVlahovic](https://github.c
 
 ## 📂 Table of Contents
 
-| 📁 Category           | Contents                                                                                                                                   |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 👤 [**Personal**]()   |                                                                                                                                            |
-| 💼 [**Work**](/work/) | [Useful Links](work/useful-links.md) · [Courses](work/courses.md) · [Code Snippets](work/code-snippets.md) · [Notes](/work/notes/notes.md) |
+| 📁 Category           | Contents                                                                                                                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 👤 [**Personal**]()   |                                                                                                                                                                                       |
+| 💼 [**Work**](/work/) | [Useful Links](work/useful-links.md) · [Courses](work/courses.md) · [Code Snippets](work/code-snippets.md) · [Notes](/work/notes/notes.md) · [Shortcuts](work/shortcuts/shortcuts.md) |

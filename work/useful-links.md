@@ -56,6 +56,8 @@
 
 [Markdown Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
 
+[Browser Markdown Editor](https://stackedit.io/)
+
 ## Accessibility
 
 [Perspective Videos of People with disabilities](https://www.w3.org/WAI/perspective-videos/)
@@ -69,5 +71,9 @@
 [Complete Guide to Dark Mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 
 [Alternative Text Examples](https://webaim.org/techniques/alttext/)
+
+## VS Code
+
+[VS Code Commands](https://shortcutmasters.com/shortcuts/visual-studio-code/windows/general/show-all-commands)
 
 #### ↩️ [Main](/README.md)
