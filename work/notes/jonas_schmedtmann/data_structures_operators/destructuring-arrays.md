@@ -1,5 +1,8 @@
 ## Destructuring Arrays
 
+<details>
+<summary style="font-size: 1.2em;font-weight: bold;"> Expand Example Code</summary>
+
 ```js
 const restaurant = {
   name: "Classico Italiano",
@@ -38,6 +41,73 @@ const [i, , [j, k]] = nested;
 console.log(i, j, k); // 2 5 6
 
 // Default Values
+const [p = 1, q = 1, r = 1] = [8, 9];
+console.log(p, q, r); // 8 9 1
+```
+
+</details>
+
+### Basic Destructuring
+
+> Destructuring allows extracting values from arrays into variables.
+
+```js
+const arr = [2, 3, 4];
+
+const [x, y, z] = arr;
+
+console.log(x, y, z); // 2 3 4
+```
+
+> The original array remains unchanged.
+
+### Skipping Elements
+
+> You can skip elements using commas.
+
+```js
+let [main, , secondary] = restaurant.categories;
+
+console.log(main, secondary); // Italian Vegetarian
+```
+
+### Swapping Elements
+
+> Values can be swapped without using a temporary variable.
+
+```js
+[main, secondary] = [secondary, main];
+
+console.log(main, secondary); // Vegetarian Italian
+```
+
+### Destructuring Return Values from Functions
+
+> Functions can return arrays that are destructured immediately.
+
+```js
+const [starter, mainCourse] = restaurant.order(2, 0);
+
+console.log(starter, mainCourse); // Garlic Bread Pizza
+```
+
+### Nested Destructuring
+
+> Destructuring can be applied to nested arrays.
+
+```js
+const nested = [2, 4, [5, 6]];
+
+const [i, , [j, k]] = nested;
+
+console.log(i, j, k); // 2 5 6
+```
+
+### Default Values
+
+> If there are fewer elements than expected, default values can be used.
+
+```js
 const [p = 1, q = 1, r = 1] = [8, 9];
 console.log(p, q, r); // 8 9 1
 ```
