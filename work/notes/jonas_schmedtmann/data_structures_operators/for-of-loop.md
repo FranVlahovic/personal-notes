@@ -1,3 +1,8 @@
+## For..Of Loop
+
+<details>
+<summary style="font-size: 1.2em;font-weight: bold;"> Expand Example Code</summary>
+
 ```js
 "use strict";
 
@@ -50,6 +55,38 @@ const menu = [...restaurant.starterMenu, ...restaurant.mainMenu];
 for (const item of menu) {
   console.log(item); // Focaccia Bruschetta Garlic Bread Caprese Salad Pizza Pasta Risotto
 }
+
+for (const [i, el] of menu.entries()) {
+  console.log(`${i + 1}) ${el}`); // 1) Focaccia 2) Bruschetta 3) Garlic Bread...
+}
+```
+
+</details>
+
+### Basic for of loop
+
+> Iterates over each element in the `menu` array
+
+> `item` represent the current element in the iteration
+
+```js
+const menu = [...restaurant.starterMenu, ...restaurant.mainMenu];
+// ["Focaccia" "Bruschetta" "Garlic" "Bread" "Caprese Salad" "Pizza" "Pasta ""Risotto"]
+
+for (const item of menu) {
+  console.log(item); // Focaccia Bruschetta Garlic Bread Caprese Salad Pizza Pasta Risotto
+}
+```
+
+### Menu Entries (Array.entries)
+
+> `menu.entries()` returns an iterable of `[index, element]` pairs.
+
+> Using destructuring `[i, el]`, we extract the index `i` and the element `el` from each pair.
+
+```js
+const menu = [...restaurant.starterMenu, ...restaurant.mainMenu];
+// ["Focaccia" "Bruschetta" "Garlic" "Bread" "Caprese Salad" "Pizza" "Pasta ""Risotto"]
 
 for (const [i, el] of menu.entries()) {
   console.log(`${i + 1}) ${el}`); // 1) Focaccia 2) Bruschetta 3) Garlic Bread...
