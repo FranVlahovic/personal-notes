@@ -1,8 +1,5 @@
 ## React Components
 
-<details>
-<summary style="font-size: 1.2em;font-weight: bold;"> Expand Example Code</summary>
-
 ### How to Create Components
 
 > Greeting.jsx
@@ -110,5 +107,3 @@ createRoot(document.getElementById("root")).render(
 - It is a `named export` component, meaning it must be `imported` with `'{}'`
 
 - `'<Relationship status="married" name="Doris" />'` → Passes props to dynamically display relationship details.
-
-</details>
