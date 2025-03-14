@@ -107,3 +107,5 @@ createRoot(document.getElementById("root")).render(
 - It is a `named export` component, meaning it must be `imported` with `'{}'`
 
 - `'<Relationship status="married" name="Doris" />'` → Passes props to dynamically display relationship details.
+
+#### ↩️ [Odin Project Main](/work/notes/odin_project/the-odin-project.md)
