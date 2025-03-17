@@ -4,7 +4,7 @@
 
 #### 1) Return a single root element
 
-- If we wish to return multiple elements in a component we can do it by wrapping them in a parent tag:
+- If we wish to return multiple elements in a component we can do it by wrapping them in a parent tag
 - This can be a `div`, or if we don't want the elements to have a container we can use React fragment `'<></>'`
 
 ##### Incorrect:

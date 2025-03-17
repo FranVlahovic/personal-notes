@@ -430,3 +430,110 @@ export default function DrinkList() {
   );
 }
 ```
+
+### Challenges 2
+
+#### 1) Change it to show two separate lists one after another: Chemists and Everyone Else. Like previously, you can determine whether a person is a chemist by checking if person.profession === 'chemist'.
+
+```jsx
+import { people } from "./data.js";
+import { getImageUrl } from "./utils.js";
+
+export default function List() {
+  const listItems = people.map((person) => (
+    <li key={person.id}>
+      <img src={getImageUrl(person)} alt={person.name} />
+      <p>
+        <b>{person.name}:</b>
+        {" " + person.profession + " "}
+        known for {person.accomplishment}
+      </p>
+    </li>
+  ));
+  return (
+    <article>
+      <h1>Scientists</h1>
+      <ul>{listItems}</ul>
+    </article>
+  );
+}
+```
+
+##### Solution
+
+```jsx
+import { people } from "./data.js";
+import { getImageUrl } from "./utils.js";
+
+function ListSection({ title, people }) {
+  return (
+    <>
+      <h2>{title}</h2>
+      <ul>
+        {people.map((person) => (
+          <li key={person.id}>
+            <img src={getImageUrl(person)} alt={person.name} />
+            <p>
+              <b>{person.name}:</b>
+              {" " + person.profession + " "}
+              known for {person.accomplishment}
+            </p>
+          </li>
+        ))}
+      </ul>
+    </>
+  );
+}
+
+export default function List() {
+  const chemists = people.filter((person) => person.profession === "chemist");
+  const everyoneElse = people.filter(
+    (person) => person.profession !== "chemist"
+  );
+  return (
+    <article>
+      <h1>Scientists</h1>
+      <ListSection title="Chemists" people={chemists} />
+      <ListSection title="Everyone Else" people={everyoneElse} />
+    </article>
+  );
+}
+```
+
+#### 2) Make a list of recipes from this array! For each recipe in the array, display its name as an `<h2>` and list its ingredients in a `<ul>`.
+
+```jsx
+import { recipes } from "./data.js";
+
+export default function RecipeList() {
+  return (
+    <div>
+      <h1>Recipes</h1>
+    </div>
+  );
+}
+```
+
+##### Solution
+
+```jsx
+import { recipes } from "./data.js";
+
+export default function RecipeList() {
+  return (
+    <div>
+      <h1>Recipes</h1>
+      {recipes.map((recipe) => (
+        <div key={recipe.id}>
+          <h2>{recipe.name}</h2>
+          <ul>
+            {recipe.ingredients.map((ingredient) => (
+              <li key={ingredient}>{ingredient}</li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </div>
+  );
+}
+```
