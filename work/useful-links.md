@@ -76,4 +76,10 @@
 
 [VS Code Commands](https://shortcutmasters.com/shortcuts/visual-studio-code/windows/general/show-all-commands)
 
+## Linux
+
+[Linux Command](https://linuxcommand.org/index.php)
+
+[Linux Journey](https://linuxjourney.com/)
+
 #### ↩️ [Main](/README.md)
