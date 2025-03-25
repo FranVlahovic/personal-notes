@@ -120,3 +120,5 @@ console.log(staffUnique); // ["Waiter", "Chef", "Manager"]
 - We create an array named staff with repeated values
 - We use Set constructor to filter out duplicate entries from the array
 - We spread the `Set` with `...` into new `array` `staffUnique`
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

@@ -96,3 +96,5 @@ console.log(uniqueItalianAndMexicanFoods); // Set(8) {'pasta', 'gnocchi', 'olive
 ```js
 console.log(italianFoods.isDisjointFrom(mexicanFoods));
 ```
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

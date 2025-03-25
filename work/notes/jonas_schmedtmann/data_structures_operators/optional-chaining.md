@@ -148,3 +148,5 @@ if (users.length > 0) {
   console.log("User array empty");
 }
 ```
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

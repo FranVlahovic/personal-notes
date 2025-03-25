@@ -99,3 +99,5 @@ console.log(rest.size); // 6
 ```
 
 - We retrieve num of entries in a `Map`
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

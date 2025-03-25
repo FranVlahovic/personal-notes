@@ -100,3 +100,5 @@ for (const player of game.scored) {
 
 - We loop through `game.scored` array
 - If `player` is already in `scorers` their count is `incremented`, if not their `count` is set to `1`
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

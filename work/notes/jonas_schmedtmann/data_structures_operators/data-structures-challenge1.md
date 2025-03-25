@@ -108,3 +108,5 @@ team1 < team2 && console.log("Team 1 is more likely to win"); // "Team 1 is more
 
 team1 > team2 && console.log("Team 2 is more likely to win");
 ```
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

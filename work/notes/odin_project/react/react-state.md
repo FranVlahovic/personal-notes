@@ -289,3 +289,5 @@ export default App;
 ```
 
 - if cliked `color` is not equal to `backgroundColor` we displayed that color with `setBackgroundColor` and we increment `counter` with `setCountChangeColor`
+
+#### ↩️ [Odin Project Main](/work/notes/odin_project/the-odin-project.md)

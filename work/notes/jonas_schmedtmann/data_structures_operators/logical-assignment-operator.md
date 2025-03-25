@@ -82,3 +82,5 @@ console.log(rest2);
 ```
 
 </details>
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

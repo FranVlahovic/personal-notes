@@ -137,3 +137,5 @@ export default function List() {
 - if our data is coming from a database we can use database keys/IDs which are unique by nature
 
 - If our data is generated and persisted locally use an `incrementing counter`, `crypto.randomUUID()` or package `uuid` when creating items.
+
+#### ↩️ [Odin Project Main](/work/notes/odin_project/the-odin-project.md)

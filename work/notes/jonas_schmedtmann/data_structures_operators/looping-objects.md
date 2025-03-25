@@ -101,3 +101,5 @@ for (const [key, { open, close }] of entries) {
 
 - We loop over an `entries` array of key-value pairs and we destructure each key-value pair
 - `key` represents the property name (e.g., "thu"), and `{ open, close }` destructures the object value to access specific properties (`open` and `close`).
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)
