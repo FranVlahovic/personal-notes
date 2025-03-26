@@ -85,3 +85,5 @@ planesInLine(12);
 ```
 
 - Repeats `🛩` emoji number of times that we specified.
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)

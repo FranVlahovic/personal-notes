@@ -70,3 +70,5 @@ document.querySelector("button").addEventListener("click", () => {
 - We put both values in `output` variable, but on `second` we `replace` `first letter` from `lowerCase` to `upperCase`
 
 - We give our `output values` `padding` of `20` and `"✅"` for each value in array
+
+#### ↩️ [Jonas Main](/work/notes/jonas_schmedtmann/jonas-schmedtmann-notes.md)
